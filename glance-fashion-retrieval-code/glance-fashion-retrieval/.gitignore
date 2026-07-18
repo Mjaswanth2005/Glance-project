@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# raw dataset and generated index are large binary artifacts -- regenerate
+# them locally rather than committing them (see data/README.md)
+data/test/
+data/index/
+data/*.zip
+*.faiss
+*.db
+embeddings.npy

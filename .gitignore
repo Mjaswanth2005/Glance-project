@@ -1,0 +1,7 @@
+.venv/
+.pytest_cache/
+.vscode/
+extract.stdout.log
+extract.stderr.log
+__pycache__/
+*.pyc
