@@ -1,4 +1,5 @@
 .venv/
+.run-venv/
 .pytest_cache/
 .vscode/
 extract.stdout.log
