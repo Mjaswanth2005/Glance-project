@@ -205,7 +205,3 @@ frame, so that would need either (a) EXIF/GPS metadata when available in product
   compared against a number instead of a vibe check.
 
 ---
-
-## 5. Codebase
-
-GitHub: `<add your repo URL here after pushing>`
